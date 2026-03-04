@@ -15,7 +15,8 @@
     {
       "caption_contains": "Jolagreen23",
       "force_names": [
-        "Jolagreen23 (Jorghen Monteiro-Mbombo)"
+        "Jolagreen23",
+        "Jorghen Monteiro-Mbombo"
       ]
     },
     {
@@ -53,6 +54,38 @@
       "caption_contains": "Samia Kanaan",
       "force_names": [
         "Samia Kanaan"
+      ]
+    },
+    {
+      "caption_contains": "Guest aux arrivées au défilé Courrèges",
+      "force_names": [
+        "Guest"
+      ]
+    },
+    {
+      "caption_contains": "Eva Queen",
+      "force_names": [
+        "Eva Queen"
+      ]
+    },
+    {
+      "caption_contains": "Le rappeur Disiz (Serigne M'baye Guey)",
+      "force_names": [
+        "Disiz",
+        "Serigne M'baye Guey"
+      ]
+    },
+    {
+      "caption_contains": "Lena Mahfouf (Lena Situations)",
+      "force_names": [
+        "Lena Mahfouf",
+        "Lena Situations"
+      ]
+    },
+    {
+      "caption_contains": "Adèle Castillon",
+      "force_names": [
+        "Adèle Castillon"
       ]
     }
   ]
