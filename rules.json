@@ -1,1 +1,16 @@
-
+{
+  "rules": [
+    {
+      "caption_contains": "au Carreau du Temple",
+      "exclude_phrases": [
+        "Carreau du Temple"
+      ]
+    },
+    {
+      "caption_contains": "Emily Ratajkowski",
+      "force_names": [
+        "Emily Ratajkowski"
+      ]
+    }
+  ]
+}
