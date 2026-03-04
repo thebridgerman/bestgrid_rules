@@ -11,6 +11,49 @@
       "force_names": [
         "Emily Ratajkowski"
       ]
+    },
+    {
+      "caption_contains": "Jolagreen23 (Jorghen Monteiro-Mbombo)",
+      "force_names": [
+        "Jolagreen23 (Jorghen Monteiro-Mbombo)"
+      ]
+    },
+    {
+      "caption_contains": "Bei Suan",
+      "force_names": [
+        "Bei Suan"
+      ]
+    },
+    {
+      "caption_contains": "Myha'la Herrold et son mari Armando Rivera",
+      "force_names": [
+        "Myha'la Herrold",
+        "Armando Rivera"
+      ]
+    },
+    {
+      "caption_contains": "Matteo Sinet",
+      "force_names": [
+        "Matteo Sinet"
+      ]
+    },
+    {
+      "caption_contains": "Toccororo",
+      "force_names": [
+        "Toccororo"
+      ]
+    },
+    {
+      "caption_contains": "Kim Petras",
+      "force_names": [
+        "Kim Petras"
+      ]
+    },
+    {
+      "caption_contains": "Samia Kanaan",
+      "force_names": [
+        "Samia Kanaan"
+      ]
     }
   ]
 }
