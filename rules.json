@@ -69,9 +69,13 @@
       ]
     },
     {
-      "caption_contains": "Le rappeur Disiz (Serigne M'baye Guey)",
+      "caption_contains": "Disiz",
       "force_names": [
         "Disiz",
+      ]
+        {,
+      "caption_contains": "Serigne M'baye Guey",
+      "force_names": [
         "Serigne M'baye Guey"
       ]
     },
